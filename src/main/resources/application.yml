@@ -4,4 +4,4 @@ spring:
   config:
     import: 
       optional: 
-        configserver: https://github.com/Gaghyta/ms-configserver
+        configserver: https://github.com/Gaghyta/ms-config
